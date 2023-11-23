@@ -1,4 +1,2 @@
-# pruebaGithub
-este es un repositorio de prueba
-
-## sofia bascur
+# WORDIX
+Juego Wordix desarrollado en introducción a la programación (FAI)
